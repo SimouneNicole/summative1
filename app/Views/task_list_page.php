@@ -9,6 +9,7 @@
         nav a { margin-right: 15px; text-decoration: none; color: #007bff; }
         .badge { padding: 3px 8px; border-radius: 4px; font-size: 12px; color: #fff; text-transform: capitalize; }
         .pending { background: #ffc107; color: #212529; }
+        .ongoing { background: #17a2b8; color: #fff; }
         .completed { background: #28a745; }
         ul { padding-left: 20px; }
         li { margin-bottom: 10px; }
